@@ -1,0 +1,5 @@
+build/
+dist/
+rastreio/
+*.zip
+.DS_Store
